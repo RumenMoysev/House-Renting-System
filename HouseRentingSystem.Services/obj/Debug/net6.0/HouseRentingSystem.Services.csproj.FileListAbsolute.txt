@@ -1,0 +1,12 @@
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\Softuni\DevOps\Software engineering and dev ops\08-Exercise-CI-CD-GitHub-Actions-Resources\House-Renting-System\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
